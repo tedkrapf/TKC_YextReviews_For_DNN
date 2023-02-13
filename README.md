@@ -1,5 +1,5 @@
-# TKC_YextReviews_For_DNN
-Allows you to connect to the Yext API and retrieve an entity's reviews.
+# TKC - Yext Reviews For DNN
+A simple Dot Net Nuke module that allows you to connect to the Yext API and retrieve an entity's reviews.
 
 Requires:
 
