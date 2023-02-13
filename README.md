@@ -32,5 +32,7 @@ DNN Module Settings / Features:
 
 -Rotate JS - custom JS to make the reviews rotate/slide automatically in the module, optional, includes a working example that can be used
 
+![](https://github.com/tedkrapf/TKC_YextReviews_For_DNN/blob/main/Doc%20Images/ModuleSettings.PNG?raw=true)
 
+![](https://github.com/tedkrapf/TKC_YextReviews_For_DNN/blob/main/Doc%20Images/ReviewsModule.PNG?raw=true)
 
